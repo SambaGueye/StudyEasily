@@ -1,0 +1,11 @@
+
+.ajoutTache {
+	background-color: skyblue;
+	width: 70px;
+	height:70px;
+	border-radius: 120px;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	border-color: skyblue;
+}
